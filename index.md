@@ -10,8 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 # Header 1 Melissa Dudley's First CS193 Homework
--meeting new people within my major
--learning tools to help me with my classes
+- meeting new people within my major
+- learning tools to help me with my classes
 
 
 ```markdown
