@@ -9,9 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-# Header 1 CS 19300
--Purdue University
--Computer Science
+# Header 1 Melissa Dudley's First CS193 Homework
+-meeting new people within my major
+-learning tools to help me with my classes
+
 
 ```markdown
 Syntax highlighted code block
